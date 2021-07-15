@@ -1,3 +1,9 @@
+```
+I Putu Suwarjaya Atmaja
+311910561
+Pemrograman Web
+```
+
 Instalasi:
 1. Download repository sebagai file zip di https://github.com/Putu1223/UasPemrograman
 2. extract zip file di webroot, rename folder hasil extract dengan nama rtrw
