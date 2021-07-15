@@ -1,5 +1,5 @@
 Instalasi:
-1. Download repository sebagai file zip di https://github.com/wanyax/manajemen-rt-rw/archive/master.zip
+1. Download repository sebagai file zip di https://github.com/Putu1223/UasPemrograman
 2. extract zip file di webroot, rename folder hasil extract dengan nama rtrw
 3. buat database baru dengan nama rt_rw
 4. import file manajemen-rt-rw.sql ke database tersebut
